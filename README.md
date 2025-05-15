@@ -16,5 +16,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                          | Associated Project    |
 |--------------------------------|-----------------------|
 |Python Programming              |
-|Python Data Analytics           | <a href="https://github.com/Gaytan2002/Python-Analytics/tree/workshop</a>
+|Python Data Analytics           | [View Project] (https://github.com/Gaytan2002/Python-Analytics/tree/workshop) |
 |Front-End Development           |
