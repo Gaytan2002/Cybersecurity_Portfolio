@@ -8,7 +8,6 @@ I am an undergraduate student with a profound interest in technology and a dedic
 My journey in computer science has led me to develop a passion for cybersecurity and computer programming, and I am now eager to transition into the field of technology.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
 
 | Skill                          | Associated Project    |
 |--------------------------------|-----------------------|
