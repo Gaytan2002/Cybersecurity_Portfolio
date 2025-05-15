@@ -15,4 +15,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                          | Associated Project    |
 |--------------------------------|-----------------------|
-|
+|Python Programming              |
+|Python Data Analytics           |
+|Front-End Development           |
