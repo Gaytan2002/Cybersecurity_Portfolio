@@ -11,6 +11,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                          | Associated Project    |
 |--------------------------------|-----------------------|
-|Python Programming              | https://github.com/Gaytan2002/Python-Password-Generator/tree/main
-|Python Data Analytics           |https://github.com/Gaytan2002/Python-Analytics/tree/workshop |
-|Front-End Development           |
+|Python Programming              |https://github.com/Gaytan2002/Python-Password-Generator/tree/main
+|Python Data Analytics           |https://github.com/Gaytan2002/Python-Analytics/tree/workshop
+|Front-End Development           |https://github.com/Gaytan2002/PasswordGenerator-ChromeExtension/tree/main
